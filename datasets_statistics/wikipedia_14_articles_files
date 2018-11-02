@@ -1,0 +1,15 @@
+Article contents ONLY (extracted from the XML)
+
+Raw Data
+        Sentences           Tokens
+zh      7416329 (7.5M)      176485053(176M)
+el      3807106 (3.8M)      46380482(46M)
+en      182910322 (183M)    2127303970(2.1B)
+
+
+
+l_th, h_th : 4, 200, max_vocab = 50k, vector_size = 200, iter=10, min_count=5
+        Sentences           Tokens
+zh      7240398 （7.2M)
+el      2141892 (2.1M)
+en      104563124 (104M)
